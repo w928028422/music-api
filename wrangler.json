@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "music-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "82e3ab14-ddd8-4a33-b493-5bf1189a0587",
+      "database_name": "black-wind-6f86-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
